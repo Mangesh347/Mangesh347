@@ -12,7 +12,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mangesh-lokade-86a2a7288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mangesh-lokade-86a2a7288" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/h31231102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/h31231102" height="30" width="40" /></a>
 </p>
-<a href= "https://x.com/https://x.com/Mangesh_Lokade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Mangesh_Lokade" height="30" width="40" />
+  <a href="https://x.com/Mangesh_Lokade" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Mangesh_Lokade" height="30" width="40" />
   </a>
 </p>
 
