@@ -1,27 +1,51 @@
-<h1 align="center">Hi 👋, I'm Mangesh Lokade</h1>
-<h3 align="center">A passionate Applied ML Scientist from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Mangesh+Lokade;AI+Software+Engineer+%C2%B7+LLM+%C2%B7+GenAI+%C2%B7+Agents" alt="Typing SVG" />
 
-- 🔭 I’m currently working on **Ethical Sentiment Big Data Pipeline**
+  <h3>Building production LLM apps, AI agents & GenAI products used by 2000+ global users</h3>
 
-- 🌱 I’m currently learning **Machine Learning.**
+  <p>
+    <img src="https://img.shields.io/badge/Open%20to-Global%20Remote-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Immediate-Joiner-22C55E?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Based%20in-India-FF9933?style=for-the-badge" />
+  </p>
 
-- 📫 How to reach me **lokademangesh123@gmail.com**
+  <p>
+    <a href="mailto:lokademangesh123@gmail.com"><img src="https://img.shields.io/badge/Email-lokademangesh123%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/mangesh347"><img src="https://img.shields.io/badge/GitHub-mangesh347-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/mangesh-lokade-86a2a7288"><img src="https://img.shields.io/badge/LinkedIn-Mangesh%20Lokade-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://x.com/Mangesh_Lokade"><img src="https://img.shields.io/badge/X-Mangesh__Lokade-000000?style=flat-square&logo=x&logoColor=white" /></a>
+    <a href="https://www.hackerrank.com/profile/h31231102"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=black" /></a>
+  </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mangesh-lokade-86a2a7288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mangesh-lokade-86a2a7288" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/h31231102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/h31231102" height="30" width="40" /></a>
-</p>
-<a href="https://x.com/Mangesh_Lokade" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X (Twitter)" height="30" width="30" />
-</a>
+---
 
+### About Me
 
+- AI Software Engineer focused on **LLM applications, RAG, GenAI & AI agents**
+- ~1 year shipping production AI products used by **2000+ users worldwide**
+- Built **7 Chrome extensions** with **2500+ installs** across US, UK, Germany, Japan & India
+- National Hackathon Finalist — **IIT-BHU Technex '25 (Top 12 / 1000+ teams)**
+- Currently working on **Ethical Sentiment Big Data Pipeline**
+- Open to **remote AI Software Engineer roles** (US / UK / Canada startups & SaaS)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/lokademangesh "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/lokademangesh " /></a></p><br><br>
+### Experience Snapshot
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mangesh347&show_icons=true&locale=en&layout=compact" alt="mangesh347" /></p>
+| Role | Company | Highlights |
+|---|---|---|
+| **AI Engineer & Frontend Developer** | BlockseBlock | Built **PeacePulse AI** — production LLM + RAG, React UI, shipped in **45 days** |
+| **Software Developer — AI Applications** | The ProEducator | Production **AI Agent** for natural-language MongoDB queries; **60% faster** retrieval |
+| **AI/ML Engineer** | InternPe | Shipped 3 end-to-end ML/DL projects (TensorFlow, Streamlit, MLOps) |
+
+---
+
+### Featured Projects
+
+```text
+PeacePulse AI .............. GenAI + RAG platform with prompt chaining & React UI
+AI Chat Agent .............. NL → MongoDB queries with LLM fallback (Node + React)
+Personal Loan ML Pipeline .. Scikit-learn Decision Tree · 87% accuracy · +40% targeting
+Claude Enhancer ............ Chrome GenAI productivity extension
+Job Fit Check .............. AI resume-to-job matching extension
