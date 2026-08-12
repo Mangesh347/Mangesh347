@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Mangesh+Lokade;AI+Software+Engineer+%C2%B7+LLM+%C2%B7+GenAI+%C2%B7+Agents" alt="Typing SVG" />
 
@@ -43,9 +44,95 @@
 
 ### Featured Projects
 
-```text
-PeacePulse AI .............. GenAI + RAG platform with prompt chaining & React UI
-AI Chat Agent .............. NL → MongoDB queries with LLM fallback (Node + React)
-Personal Loan ML Pipeline .. Scikit-learn Decision Tree · 87% accuracy · +40% targeting
-Claude Enhancer ............ Chrome GenAI productivity extension
-Job Fit Check .............. AI resume-to-job matching extension
+- **PeacePulse AI** — GenAI + RAG platform with prompt chaining & React UI
+- **AI Chat Agent** — NL → MongoDB queries with LLM fallback (Node + React)
+- **Personal Loan ML Pipeline** — Scikit-learn Decision Tree · 87% accuracy · +40% targeting
+- **Claude Enhancer** — Chrome GenAI productivity extension
+- **Job Fit Check** — AI resume-to-job matching extension
+
+---
+
+### Tech Stack
+
+#### AI / GenAI
+<p>
+  <img src="https://img.shields.io/badge/LLMs-OpenAI%20%7C%20Claude-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-Agents-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-Semantic%20Search-10B981?style=for-the-badge" />
+</p>
+
+#### ML / Data
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+#### Full-Stack
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+#### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+### Achievements
+
+- Top 12 National Finalist — **IIT-BHU Technex '25** (1000+ teams)
+- Top 50 — **Smart India Hackathon (SIH) Campus Edition 2024**
+- **IBM Machine Learning & Cloud Certification 2025**
+- International Campus Ambassador — **IMUNA New York 2024**
+- **7 published Chrome extensions · 2500+ installs**
+
+---
+
+### GitHub Pulse
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mangesh347&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangesh347&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangesh347&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mangesh347&theme=tokyonight&no-frame=true&column=6&margin-w=8" />
+</div>
+
+---
+
+### Education
+
+**B.Tech Computer Science Engineering**  
+Vishwakarma University, Pune · Graduating 2027 · CGPA **8.1**
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mangesh347&style=for-the-badge&color=58A6FF" alt="Profile views" />
+  <br/><br/>
+  <a href="https://www.buymeacoffee.com/lokademangesh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
+  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=520&lines=Let's+build+production+AI+together.;Open+to+remote+roles+%C2%B7+Immediate+joiner." alt="Footer typing" />
+</div>
