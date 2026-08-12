@@ -14,7 +14,7 @@
     <a href="mailto:lokademangesh123@gmail.com"><img src="https://img.shields.io/badge/Email-lokademangesh123%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/mangesh347"><img src="https://img.shields.io/badge/GitHub-mangesh347-181717?style=flat-square&logo=github&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/mangesh-lokade-86a2a7288"><img src="https://img.shields.io/badge/LinkedIn-Mangesh%20Lokade-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://x.com/Mangesh_Lokade"><img src="https://img.shields.io/badge/X-Mangesh__Lokade-000000?style=flat-square&logo=x&logoColor=white" /></a>
+    <a href="https://x.com/MangeshLokade"><img src="https://img.shields.io/badge/X-Mangesh__Lokade-000000?style=flat-square&logo=x&logoColor=white" /></a>
     <a href="https://www.hackerrank.com/profile/h31231102"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=black" /></a>
   </p>
 </div>
