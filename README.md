@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<!-- hero: Spider-Verse glitch mask + tags + MANGESH wordmark -->
+<!-- hero: GIF 1 plays 5x then GIF 2 plays 5x (sequenced in hero-gifs.webp) -->
 
 <h3><code>mangesh@github ~ $ whoami</code></h3>
 
-<img src="./multiverse-hero.svg" width="860" alt="MANGESH — Spider-Verse glitch hero" />
+<img src="./hero-gifs.webp" width="860" alt="Mangesh profile hero GIFs — GIF1 x5 then GIF2 x5" />
 
 <br>
 <br>
