@@ -1,5 +1,50 @@
 
 <div align="center">
+
+<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
+     wordmark (wipes in left-to-right, then rocks on its vertical axis).
+     widths are picked so both panels land at the same height.
+     portrait: python scripts/prep_photo_simple.py && python scripts/make_ascii_svg.py
+     wordmark: python scripts/make_wordmark_svg.py --mode rock -->
+
+<h3><code>mangesh@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./mangesh-ascii.svg" width="370" alt="Mangesh Lokade — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="ML — 3D ASCII wordmark" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+
+<h3><code>mangesh@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Mangesh's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
+
+<h3><code>mangesh@github ~ $ ./links.sh</code></h3>
+
+<p><b>AI Software Engineer · LLM · GenAI · Agents</b></p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mangesh--lokade--dev-0d1117?style=for-the-badge&logo=githubpages&logoColor=white)](https://mangesh-lokade-dev.github.io/Mangesh_Lokade.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mangesh--lokade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mangesh-lokade-86a2a7288)
+[![GitHub](https://img.shields.io/badge/GitHub-mangesh347-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mangesh347)
+[![Email](https://img.shields.io/badge/Email-lokademangesh123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokademangesh123@gmail.com)
+
+<br>
+
+</div>
+
+---
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Mangesh+Lokade;AI+Software+Engineer+%C2%B7+LLM+%C2%B7+GenAI+%C2%B7+Agents" alt="Typing SVG" />
 
   <h3>Building production LLM apps, AI agents & GenAI products used by 2000+ global users</h3>
