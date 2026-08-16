@@ -34,7 +34,7 @@
 <p><b>AI Software Engineer · LLM · GenAI · Agents</b></p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mangesh--lokade--dev-0d1117?style=for-the-badge&logo=githubpages&logoColor=white)](https://mangesh-lokade-dev.github.io/Mangesh_Lokade.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mangesh--lokade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mangesh-lokade-86a2a7288)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mangesh--lokade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mangesh-lokade-sd)
 [![GitHub](https://img.shields.io/badge/GitHub-mangesh347-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mangesh347)
 [![Email](https://img.shields.io/badge/Email-lokademangesh123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokademangesh123@gmail.com)
 
