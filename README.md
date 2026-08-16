@@ -1,20 +1,11 @@
 
 <div align="center">
 
-<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
-     wordmark (wipes in left-to-right, then rocks on its vertical axis).
-     widths are picked so both panels land at the same height.
-     portrait: python scripts/prep_photo_simple.py && python scripts/make_ascii_svg.py
-     wordmark: python scripts/make_wordmark_svg.py --mode rock -->
+<!-- hero: Spider-Verse glitch mask + tags + MANGESH wordmark -->
 
 <h3><code>mangesh@github ~ $ whoami</code></h3>
 
-<table>
-<tr>
-<td valign="top"><img src="./mangesh-ascii.svg" width="370" alt="Mangesh Lokade — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark.svg" width="490" alt="ML — 3D ASCII wordmark" /></td>
-</tr>
-</table>
+<img src="./multiverse-hero.svg" width="860" alt="MANGESH — Spider-Verse glitch hero" />
 
 <br>
 <br>
